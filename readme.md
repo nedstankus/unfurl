@@ -2,6 +2,13 @@
 
 This project provides a command-line tool for "unfurling" URLs.
 
+## Installation
+
+```
+https://github.com/nedstankus/unfurl.git
+then
+npm install
+```
 
 ## Usage
 
